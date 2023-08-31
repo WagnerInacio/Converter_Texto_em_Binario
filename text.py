@@ -1,3 +1,8 @@
+"""
+Código para converter textos no formato binario
+
+"""
+
 def text_to_binary(text):
     binary_result = ' '.join(format(ord(char), '08b') for char in text)
     return binary_result
