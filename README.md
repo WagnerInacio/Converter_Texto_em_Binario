@@ -1,0 +1,1 @@
+# Converter_Texto_em_Binario
